@@ -2,8 +2,12 @@
 
 # dependencies
 /node_modules
+/.idea
+/.temp
 /.pnp
+
 .pnp.js
+*.iml
 
 # testing
 /coverage
@@ -21,3 +25,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/
+/package-lock.json
+
